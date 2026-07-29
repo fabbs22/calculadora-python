@@ -1,5 +1,7 @@
 Calculadora em Python (Interface Gráfica)
 
+![Demonstração da calculadora](image.png)
+
 Uma aplicação desktop simples e elegante de calculadora, construída com Python e a biblioteca gráfica `tkinter`.
 
 Lista de funcionalidades:
@@ -21,10 +23,4 @@ Python >= 3.10.5
 
 Agora, na pasta do projeto abra um terminal e execute:
 ```bash
-calculadora-python.py
-```
-
-**Para clonar este repositório:**
-```bash
-git clone https://github.com/fabbs22/calculadora-python.git
-```
+python calculadora-python.py
