@@ -21,7 +21,7 @@ Python >= 3.10.5
 
 Agora, na pasta do projeto abra um terminal e execute:
 ```bash
-python calc.py
+calculadora-python.py
 ```
 
 **Para clonar este repositório:**
